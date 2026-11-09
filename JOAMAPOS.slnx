@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="JOAMAPOS.Data/JOAMAPOS.Data.csproj" Id="ed98ed67-1723-4d82-a851-4e2d9b4c20b4" />
+  <Project Path="JOAMAPOS.Domain/JOAMAPOS.Domain.csproj" Id="902cb057-57dc-42eb-a610-faf4a56bae7f" />
+  <Project Path="JOAMAPOS.Services/JOAMAPOS.Services.csproj" Id="9f5bcdd8-1565-4916-9735-3c126b79fe8f" />
+  <Project Path="JOAMMAPOS.WinForms/JOAMMAPOS.WinForms.csproj" Id="62c2cf48-9afb-4732-bfd6-77ab4f75ac9a" />
+</Solution>
